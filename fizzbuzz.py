@@ -1,3 +1,5 @@
+# built with python 2.7.5
+
 eulogy = raw_input("? ")
 x = int(eulogy)
 print x
